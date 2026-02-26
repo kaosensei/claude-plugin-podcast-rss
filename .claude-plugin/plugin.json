@@ -1,0 +1,12 @@
+{
+  "name": "podcast-rss",
+  "version": "1.0.0",
+  "description": "Extract RSS feed URLs from Apple Podcasts links using the iTunes Lookup API. No authentication required.",
+  "author": {
+    "name": "kaosensei",
+    "url": "https://github.com/kaosensei"
+  },
+  "repository": "https://github.com/kaosensei/claude-plugin-podcast-rss",
+  "license": "MIT",
+  "keywords": ["podcast", "rss", "apple-podcasts", "itunes", "feed"]
+}
