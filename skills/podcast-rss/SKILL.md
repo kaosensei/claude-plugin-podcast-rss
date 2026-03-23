@@ -1,8 +1,9 @@
 ---
 name: podcast-rss
-description: Extract RSS feed URL from an Apple Podcasts link. Use when the user says "podcast rss", "get rss", "find rss feed", or provides an Apple Podcasts URL and wants the RSS feed.
+description: Extract RSS feed URL from an Apple Podcasts link. Use when the user says "podcast rss", "get rss", "find rss feed", "取得rss", "找podcast rss", "這個podcast的rss", "find rss" or provides an Apple Podcasts URL and wants the RSS feed.
 argument-hint: "[Apple Podcasts URL]"
-allowed-tools: [Bash]
+user-invocable: true
+allowed-tools: Bash
 ---
 
 # Podcast RSS Extractor (Apple Podcasts)
